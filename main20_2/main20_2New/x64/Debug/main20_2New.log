@@ -1,0 +1,3 @@
+﻿  main20_2New.cpp
+F:\C++\Проекты\main20_2New\main20_2New\main20_2New.cpp(9,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  main20_2New.vcxproj -> F:\C++\Проекты\main20_2New\x64\Debug\main20_2New.exe
